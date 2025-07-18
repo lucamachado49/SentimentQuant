@@ -123,4 +123,4 @@ MIT License. See [LICENSE](LICENSE) for details.
 
 ## Contact
 
-For inquiries, connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile) or via email at your.email@example.com.
+For inquiries, connect with me on [LinkedIn](www.linkedin.com/in/lucas-machado-ds).
